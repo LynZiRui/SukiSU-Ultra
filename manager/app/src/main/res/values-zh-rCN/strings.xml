@@ -222,8 +222,8 @@
     <string name="yes">是</string>
     <string name="no">否</string>
     <string name="failed_reboot">重启失败</string>
-    <string name="batch_authorization">批量授权</string>
-    <string name="batch_cancel_authorization">批量取消授权</string>
+    <string name="batch_authorization">授权</string>
+    <string name="batch_cancel_authorization">撤销</string>
     <string name="color_yellow">黄色</string>
     <string name="kpm">内核模块</string>
     <string name="kpm_title">内核模块</string>
